@@ -45,7 +45,7 @@ task_list_back/
 
 1. Clona el repositorio:
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/alealvarezgalan87/task_list_back.git
    cd task_list_back
    ```
 
@@ -65,7 +65,7 @@ task_list_back/
 
 1. Clona el repositorio:
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/alealvarezgalan87/task_list_back.git
    cd task_list_back
    ```
 
